@@ -8,7 +8,7 @@ const messages = [
     added: new Date(),
   },
   {
-    text: 'Hello Qtrams!',
+    text: 'Hello Qtrams soft!',
     user: 'Charles',
     added: new Date(),
   },
